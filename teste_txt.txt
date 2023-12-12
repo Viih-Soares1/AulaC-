@@ -1,2 +1,0 @@
-Neste diretorio iremos estudar csharp 
-
